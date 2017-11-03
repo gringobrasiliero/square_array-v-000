@@ -4,6 +4,7 @@ def square_array(array)
 
   array.each do |squared|
     squared = numbers**numbers
+squared
   end
-  squared
+
 end
